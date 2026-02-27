@@ -1,5 +1,4 @@
-<img width="611" height="418" alt="Screenshot 2026-02-27 174725" src="https://github.com/user-attachments/assets/29344509-1711-463b-9168-d2009cf7e2cb" /><img width="611" height="418" alt="image" src="https://github.com/user-attachments/assets/ccb89b3b-db80-4172-b2b3-c02275f9c15f" />Project Title
-🌊 Intelligent Flood Prediction & Early Warning System
+🌊 Intelligent Flood Prediction & Early Warning System**
 
 Tagline: Predicting Floods. Protecting Lives.
 
